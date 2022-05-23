@@ -1,0 +1,6 @@
+{
+    "name": "Blur Studio Python Release Workflow",
+    "description": "Blur Studio Python workflow for publishing packages to PyPI.",
+    "iconName": "python",
+    "categories": ["Python"]
+}
