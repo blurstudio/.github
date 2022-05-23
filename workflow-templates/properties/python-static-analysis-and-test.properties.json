@@ -1,0 +1,6 @@
+{
+    "name": "Blur Studio Python Static Analysis & Test Workflow",
+    "description": "Blur Studio Python workflow for performing static analysis and formatting checks.",
+    "iconName": "python",
+    "categories": ["Python"]
+}

@@ -1,0 +1,32 @@
+---
+name: Feature Request
+description: Suggest an idea for the project. Please search existing issues before submitting. Also see CONTRIBUTING.md.
+title: "[Request]: "
+labels: ["enhancement"]
+
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: |
+        Describe the functionality you would like to see added the project.
+        Please be as clear and concise as possible.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Solution
+      description: |
+        Describe what a possible solution would look and/or act like.
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: |
+        Append any additional context regarding the request here.
+        Screenshots are always welcome!
+    validations:
+      required: false
